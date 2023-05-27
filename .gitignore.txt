@@ -1,1 +1,1 @@
-\yoxlama\target\
+yoxlama/target/
