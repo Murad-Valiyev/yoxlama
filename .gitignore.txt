@@ -1,1 +1,1 @@
-C:\Workspace\yoxlama\target
+\yoxlama\target\
