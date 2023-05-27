@@ -1,0 +1,7 @@
+newpackage\Test.class
+com\mycompany\main\Country.class
+com\mycompany\main\Main.class
+com\mycompany\main\UserDAO.class
+com\mycompany\main\UserDAOImpl.class
+com\mycompany\main\AbstractDAO.class
+com\mycompany\main\User.class
