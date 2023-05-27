@@ -1,1 +1,1 @@
-yoxlama/target/
+data.txt
